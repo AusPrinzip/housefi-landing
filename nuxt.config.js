@@ -1,8 +1,8 @@
 export default {
   target: 'static',
-  router: {
-    base: '/housefi-landing/'
-  },
+  // router: {
+  //   base: '/housefi-landing/'
+  // },
   head: {
     title: 'houseFi',
     htmlAttrs: {
