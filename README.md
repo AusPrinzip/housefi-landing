@@ -1,10 +1,6 @@
-# NEFA Landing Page
+# houseFI Landing Page
 
-Free landing page template built using Nuxt 2 and Tailwindcss 3
-
-> [LIVE DEMO](https://nefa.vercel.app/)
-
-![Thumbnail](assets/img/thumbnail.jpg)
+houseFi landing page
 
 ## Project Structure
 
@@ -43,11 +39,3 @@ $ yarn start
 # generate static project
 $ yarn generate
 ```
-
-## Other version of NEFA
-- [React NEFA](https://github.com/hakimov-dev/nefa-react) by [Muhammadamin](https://github.com/hakimov-dev)
-
-Use it for learn, but please don’t republish, redistribute, or resell the template.
-
-Code by [rsurya99](https://github.com/rsurya99)  
-UI/UX by [irvanmoses](https://www.facebook.com/irvan.moses)
